@@ -45,6 +45,7 @@ print("if x=3:",y_predict1)
 plt.scatter(x,y)
 plt.plot(x,y_predicted,color='blue')
 plt.show()
+```
 
 ## Output:
 
