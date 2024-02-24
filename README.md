@@ -48,7 +48,8 @@ plt.show()
 
 ## Output:
 
-![s1](https://github.com/VelasiriSreeja/Find-the-best-fit-line-using-Least-Squares-Method/assets/118344328/8a1bc597-1332-45ca-b5e7-f5e2379f5946)
+![s2](https://github.com/VelasiriSreeja/Find-the-best-fit-line-using-Least-Squares-Method/assets/118344328/46ee9903-3368-42fb-aca5-1c843c3139f6)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
